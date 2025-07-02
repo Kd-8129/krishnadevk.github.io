@@ -1,0 +1,25 @@
+Smart AI-Powered Security Camera 🚨📷
+
+This is a smart surveillance system I developed with my team as part of our final year project. It uses a Raspberry Pi and Python (with OpenCV) to detect fire, faces, animals, and even number plates — and sends instant alerts through Telegram.
+
+ What It Does
+
+- 🔍 Detects faces using Haar cascades  
+- 🔥 Identifies fire using image processing  
+- 🐶 Detects animal movement  
+- 🚗 Recognizes number plates using OCR  
+- 📲 Sends real-time alerts through Telegram bot  
+- 🖥️ Shows live camera feed on-screen
+
+All this works in real time on a Raspberry Pi 4 with just a camera and some sensors!
+
+🧰 Tools & Technologies
+
+- Python, OpenCV, Haar Cascades, Tesseract OCR  
+- Raspberry Pi 4, PiCamera  
+- Telegram Bot API (via telepot)  
+- YOLOv3 (for object detection)  
+- Basic hardware: buzzer, IR sensor, jumper wires
+
+
+
